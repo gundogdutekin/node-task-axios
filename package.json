@@ -1,0 +1,15 @@
+{
+  "name": "task",
+  "version": "1.0.0",
+  "description": "Node and Axios Exercise",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Tekin Gündoğdu",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
